@@ -464,8 +464,8 @@ end
 # the GNU Lesser General Public License version 2.1.
 #
 
-require 'tmail/scanner'
-require 'tmail/utils'
+# require 'tmail/scanner'
+# require 'tmail/utils'
 
 module TMail
   class Parser < Racc::Parser
